@@ -58,9 +58,10 @@ The **Smart Team Management and Evaluation System** is built with the following 
 
 ## Installation
 
-To install STME, follow these steps:
+To install 0r Run STME, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Kasun-Mamalgaha/stme.git
-
+   git clone https://github.com/Kasun-Mamalgaha/SMART-TEAM-MANAGEMENT-AND-EVALUATION-SYSTEM
+2. Extract the STME file.
+3. Access the main file STME\src\main\webapp\Home.JSP
